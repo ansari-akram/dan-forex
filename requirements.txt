@@ -1,6 +1,6 @@
 h5py==2.10.0
 Keras-Preprocessing==1.1.0
-matplotlib==3.5.1
+matplotlib
 MetaTrader5==5.0.36
 multidict
 mysql-connector-python==8.0.28
